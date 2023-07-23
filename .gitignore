@@ -1,0 +1,6 @@
+# Ignore .pth files
+*.pth
+
+# Ignore the contents inside these directories
+/static/test/
+/static/uploads/

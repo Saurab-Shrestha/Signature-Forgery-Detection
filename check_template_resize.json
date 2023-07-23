@@ -1,0 +1,135 @@
+{
+  "check_resize_1.jpg129118": {
+    "filename": "check_resize_1.jpg",
+    "size": 129118,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 811,
+          "y": 28,
+          "width": 303,
+          "height": 58
+        },
+        "region_attributes": {
+          "name": "Date",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 224,
+          "y": 100,
+          "width": 813,
+          "height": 53
+        },
+        "region_attributes": {
+          "name": "Payee",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 120,
+          "y": 152,
+          "width": 657,
+          "height": 71
+        },
+        "region_attributes": {
+          "name": "Amount in words",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 811,
+          "y": 161,
+          "width": 298,
+          "height": 57
+        },
+        "region_attributes": {
+          "name": "Amount",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 536,
+          "y": 238,
+          "width": 281,
+          "height": 155
+        },
+        "region_attributes": {
+          "name": "Signature 1",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 834,
+          "y": 237,
+          "width": 276,
+          "height": 154
+        },
+        "region_attributes": {
+          "name": "Signature 2",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 46,
+          "y": 427,
+          "width": 968,
+          "height": 79
+        },
+        "region_attributes": {
+          "name": "MICR",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": { "caption": "", "public_domain": "no", "image_url": "" }
+  }
+}
